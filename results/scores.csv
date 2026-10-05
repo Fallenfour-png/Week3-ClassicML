@@ -1,0 +1,25 @@
+Classifier,Scaling,RAVDESS test accuracy (%),My voice accuracy (%),My voice correct (/8)
+KNeighborsClassifier,Unscaled,51.041666666666664,12.5,1
+SVC,Unscaled,47.91666666666667,37.5,3
+SVC RBF kernel,Unscaled,29.51388888888889,12.5,1
+DecisionTreeClassifier,Unscaled,36.11111111111111,25.0,2
+RandomForestClassifier,Unscaled,57.638888888888886,12.5,1
+AdaBoostClassifier,Unscaled,32.98611111111111,12.5,1
+GaussianNB,Unscaled,33.33333333333333,0.0,0
+QuadraticDiscriminantAnalysis,Unscaled,17.01388888888889,12.5,1
+KNeighborsClassifier,Standard scaled,56.25,25.0,2
+SVC,Standard scaled,50.34722222222222,25.0,2
+SVC RBF kernel,Standard scaled,50.69444444444444,25.0,2
+DecisionTreeClassifier,Standard scaled,34.72222222222222,25.0,2
+RandomForestClassifier,Standard scaled,54.166666666666664,12.5,1
+AdaBoostClassifier,Standard scaled,32.98611111111111,12.5,1
+GaussianNB,Standard scaled,30.208333333333332,0.0,0
+QuadraticDiscriminantAnalysis,Standard scaled,51.388888888888886,25.0,2
+KNeighborsClassifier,MinMax scaled,60.06944444444444,25.0,2
+SVC,MinMax scaled,51.041666666666664,25.0,2
+SVC RBF kernel,MinMax scaled,43.40277777777778,25.0,2
+DecisionTreeClassifier,MinMax scaled,36.45833333333333,12.5,1
+RandomForestClassifier,MinMax scaled,57.291666666666664,25.0,2
+AdaBoostClassifier,MinMax scaled,32.98611111111111,12.5,1
+GaussianNB,MinMax scaled,30.208333333333332,0.0,0
+QuadraticDiscriminantAnalysis,MinMax scaled,53.81944444444444,12.5,1
